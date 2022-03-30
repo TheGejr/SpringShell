@@ -1,4 +1,4 @@
-# Spring Core RCE - CVE-2022-22963
+# Spring Core RCE
 
 > After Spring Cloud, on March 29, another heavyweight vulnerability of Spring broke out on the Internet: Spring Core RCE 
 
