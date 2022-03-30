@@ -15,4 +15,8 @@
 2. Spring Framework or derived frameworks are used
 
 ## Bug fix suggestion 
-At present, Spring has not officially released a patch, it is recommended to reduce the jdk version as a temporary solution 
+At present, Spring has not officially released a patch, it is recommended to reduce the jdk version as a temporary solution
+
+## Blue team
+### Yara
+* [Florian Roth - Spring4Shell webshells](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)
