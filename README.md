@@ -1,6 +1,7 @@
-# Spring Core RCE
+# Spring Core RCE - CVE-2022-22965
 
 > After Spring Cloud, on March 29, another heavyweight vulnerability of Spring broke out on the Internet: Spring Core RCE 
+> On March 31 a [CVE-number was finally assigned to the vulnerability](https://tanzu.vmware.com/security/cve-2022-22965) with a [CVSS score 9.8 (CRITICAL)](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H)
 
 ## Circulating coding poc 
 **The exploit has been uploaded so far ```exp.py```**  
