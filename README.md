@@ -74,3 +74,6 @@ At present, Spring has not officially released a patch, it is recommended to red
 ## Blue team
 ### Yara
 * [Florian Roth - Spring4Shell webshells](https://github.com/Neo23x0/signature-base/blob/master/yara/expl_spring4shell.yar)
+
+### Sigma
+* [Emanuele De Lucia - Creation of .jsp webshells](https://github.com/edelucia/rules/blob/main/sigma/Spring4Shell.yaml)
