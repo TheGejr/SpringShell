@@ -62,7 +62,8 @@ etc
 
 ## Patching
 Spring have now released new versions which addresses this CVE. See [Springs announcement](https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement).
-[Patch Links in Spring Production ](https://github.com/spring-projects/spring-framework/commit/7f7fb58dd0dae86d22268a4b59ac7c72a6c22529)
+
+[The commit that patched the vulnerability](https://github.com/spring-projects/spring-framework/commit/7f7fb58dd0dae86d22268a4b59ac7c72a6c22529)
 
 ## Vulnerability Impact 
 1. JDK version 9 and above 
@@ -77,3 +78,6 @@ At present, Spring has not officially released a patch, it is recommended to red
 
 ### Sigma
 * [Emanuele De Lucia - Creation of .jsp webshells](https://github.com/edelucia/rules/blob/main/sigma/Spring4Shell.yaml)
+
+### SPLUNK
+* [Alex John - Splunk detection SPL](https://github.com/west-wind/Spring4Shell-Detection)
